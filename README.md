@@ -3,11 +3,13 @@
 <p>
 </p>
 
-<h1 align="center"><b>Hi ,## Jorge A. Ureta
+<h1 align="center"><b>Hi , Jorge A. Ureta
 **Estudiante de Ingeniería en Sistemas de Información**  
 Universidad Tecnológica Nacional – Facultad Regional San Rafael (UTN FRSR)
+ 
 **Tecnicatura en Programación**  
 Universidad Tecnológica Nacional – Facultad Regional San Rafael (UTN FRSR)
+
 Este repositorio contiene proyectos, prácticas académicas y desarrollos relacionados con mi formación en programación, ingeniería de software y tecnologías de la información.
  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
